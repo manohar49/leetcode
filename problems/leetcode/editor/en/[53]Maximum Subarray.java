@@ -17,7 +17,7 @@
 // 👍 8237 👎 392
 
 // leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution53 {
 
   public int maxSubArray(int[] nums) {
     return maxSubArray(nums, 0, nums.length - 1);
